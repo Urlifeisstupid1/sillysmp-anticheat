@@ -1,0 +1,12 @@
+{
+  "packName": "Silly SMP",
+  "allow": {
+    "modernfix": ">=5.18.0",
+    "ferritecore": "ANY",
+    "oculus": "ANY",
+    "rubidium": "^0",
+    "jei": "ANY"
+  },
+  "ignore": ["minecraft", "forge", "mcp"],
+  "blockMessage": "Unsupported mods detected. Remove them to play Silly SMP."
+}
