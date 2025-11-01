@@ -235,7 +235,7 @@
     "mpuc_lavendermd": "ANY",
     "mr_netherweather": "ANY",
     "whitenoise": "ANY",
-    "mr_dynamic_torches": "ANY"
+    "mr_dynamic_torches": "ANY",
     "transition": "ANY"
   },
   "ignore": ["minecraft", "forge", "mcp"],
