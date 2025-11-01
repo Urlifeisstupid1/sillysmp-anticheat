@@ -8,5 +8,5 @@
     "jei": "ANY"
   },
   "ignore": ["minecraft", "forge", "mcp"],
-  "blockMessage": "Unsupported mods detected. Remove them to play Silly SMP."
+  "blockMessage": "Unsupported mods detected. Remove them to play."
 }
