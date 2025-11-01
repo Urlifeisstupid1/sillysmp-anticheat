@@ -236,7 +236,8 @@
     "mr_netherweather": "ANY",
     "whitenoise": "ANY",
     "mr_dynamic_torches": "ANY",
-    "transition": "ANY"
+    "transition": "ANY",
+    "sillysmp_integritychecker": "ANY"
   },
   "ignore": ["minecraft", "forge", "mcp"],
   "blockMessage": "Unsupported mods detected. Please remove them to play."
