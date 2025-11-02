@@ -239,8 +239,7 @@
     "transition": "ANY",
     "sillysmp_integritychecker": "ANY",
     "serverpause": "ANY",
-    "ichunutil": "ANY",
-    "appleskin": "ANY"
+    "ichunutil": "ANY"
   },
   "ignore": ["minecraft", "forge", "mcp"],
   "blockMessage": "Unsupported mods detected. Please remove them to play."
