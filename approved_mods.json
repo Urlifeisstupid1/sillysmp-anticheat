@@ -235,10 +235,7 @@
     "mpuc_lavendermd": "ANY",
     "mr_netherweather": "ANY",
     "whitenoise": "ANY",
-    "mr_dynamic_torches": "ANY",
-    "transition": "ANY",
-    "sillysmp_integritychecker": "ANY",
-    "serverpause": "ANY"
+    "mr_dynamic_torches": "ANY"
   },
   "ignore": ["minecraft", "forge", "mcp"],
   "blockMessage": "Unsupported mods detected. Please remove them to play."
