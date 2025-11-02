@@ -237,7 +237,9 @@
     "whitenoise": "ANY",
     "mr_dynamic_torches": "ANY",
     "transition": "ANY",
-    "sillysmp_integritychecker": "ANY"
+    "sillysmp_integritychecker": "ANY",
+    "serverpause": "ANY",
+    "ichunutil": "ANY"
   },
   "ignore": ["minecraft", "forge", "mcp"],
   "blockMessage": "Unsupported mods detected. Please remove them to play."
