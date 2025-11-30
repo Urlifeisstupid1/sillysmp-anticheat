@@ -1,1 +1,8 @@
-
+{
+  "packName": "Silly SMP",
+  "allow": {
+    "mod": "ANY"
+  },
+  "ignore": ["minecraft", "forge", "mcp"],
+  "blockMessage": "Unsupported mods detected. Please remove them to play."
+}
